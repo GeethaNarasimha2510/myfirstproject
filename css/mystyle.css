@@ -1,0 +1,26 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.headclass {
+    background-color: rgb(226, 164, 226);
+    max-width: 100%;
+}
+
+body {
+
+    background-color: aqua;
+    ;
+}
+
+.logo {
+    height: 15;
+    width: 10;
+}
+.pink {
+    color: pink;
+}
+
+.white {
+    color: white;
+}
